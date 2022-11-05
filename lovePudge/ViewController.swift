@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        titleLabel1.text = "Почему пудж?"
+        titleLabel1.text = "Почему пудж??????"
         
         
         titleLabel1.font = UIFont.systemFont(ofSize: 32)
